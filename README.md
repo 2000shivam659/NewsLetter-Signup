@@ -16,11 +16,6 @@ This project is a template for newsletter signup page which adds users to my new
 <img alt="failure-image" src="imgs/failure.PNG">
 
 
-## Inspiration:
-The inspiration for the website have been taken from the follwing:
-* [Angela Yu](https://github.com/angelabauer)'s Complete Web Development Bootcamp Course on Udemy.
-
-
 ## Acknowledgements:
 I'd like to express my greatest gratitude towards Angela Yu for her amazing teaching efforts and course.
 For the website I've used the following resources:
